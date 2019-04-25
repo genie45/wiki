@@ -5,7 +5,7 @@ If you would like to become a wiki contributor, please join my [Discord](http://
 # Documentation
 ## Commander
 ### Getting Started
-[Overview](#)     [Installation](#)     [Configuration](#)
+[Overview](#) - [Installation](#) - [Configuration](#)
 ### Main Window
 [Item Spawn Lists](#)
 [Command Panel](#)
