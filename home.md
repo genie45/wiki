@@ -5,28 +5,42 @@ If you would like to become a wiki contributor, please join my [Discord](http://
 # Documentation
 ## Commander
 ### Getting Started
-[Installation](#) - [Configuration](#)
+[Installation](#)
+[Configuration](#)
 ### Main Window
-[Overview](#) - [Item Spawn Lists](#) - [Command Panel](#) - [Finger Cannon](#) - [Redirected Spawning](#) - [Custom Commands](#) - [F-Key Quickshots](#)
+[Overview](#)
+[Item Spawn Lists](#)
+[Command Panel](#)
+[Finger Cannon](#)
+[Redirected Spawning](#)
+[Custom Commands](#)
+[F-Key Quickshots](#)
 ### Mapping System
-[Overview](#) - [Teleporting](#) - [Bookmarks](#) - [Loading Savefile data](#) - [Loading Violet data](#)
+[Overview](#)
+[Teleporting](#)
+[Bookmarks](#)
+[Loading Savefile data](#)
+[Loading Violet data](#)
 
 ## Violet Exchange
 ### Getting Started
-[Installation](#) - [Configuration](#)
+[Installation](#)
+[Configuration](#)
 ### Main Window
-[Overview](#) - 
+[Overview](#)
 
 ## ARK Glider
 ### Getting Started
-[Installation](#) - [Configuration](#)
+[Installation](#)
+[Configuration](#)
 ### Main Window
-[Overview](#) - 
+[Overview](#)
 
 ## ATLAS Server Control
 ### Getting Started
-[Installation](#) - [Configuration](#)
+[Installation](#)
+[Configuration](#)
 ### Main Window
-[Overview](#) - 
+[Overview](#)
 
 # Resources
