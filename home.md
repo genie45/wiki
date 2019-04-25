@@ -5,7 +5,7 @@ If you would like to become a wiki contributor, please join my [Discord](http://
 # Documentation
 ## Commander
 ### Getting Started
-[Installation](#)
+[Installation](commander#installation)
 [Configuration](#)
 ### Main GUI (Overlay & Windowed)
 [Overview](#)
