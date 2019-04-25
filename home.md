@@ -3,7 +3,6 @@
 If you would like to become a wiki contributor, please join my [Discord](http://discord.gg/3EXA2MUv) and send me a DM.  I am very limited for time so any help is greatly appreciated.
 
 # Documentation
-## ![Commandernew](/uploads/commandernew.png "Commandernew")
 ## Commander
 ### Getting Started
 [Installation](commander#installation)
