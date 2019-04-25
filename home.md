@@ -6,10 +6,10 @@ If you would like to become a wiki contributor, please join my [Discord](http://
 ## Commander
 ### Getting Started
 [Installation](commander#installation)
-[Configuration](#)
+[Configuration](commander#configuration)
 ### Main GUI (Overlay & Windowed)
-[Overview](#)
-[Item Spawn Lists](#)
+[Overview](commander#overview)
+[Item Spawn Lists](commander#itemspawnlists)
 [Command Panel](#)
 [Finger Cannon](#)
 [Redirected Spawning](#)
