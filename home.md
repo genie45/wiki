@@ -7,7 +7,7 @@ If you would like to become a wiki contributor, please join my [Discord](http://
 ### Getting Started
 [Installation](#)
 [Configuration](#)
-### Main Window (Overlay & Windowed)
+### Main GUI (Overlay & Windowed)
 [Overview](#)
 [Item Spawn Lists](#)
 [Command Panel](#)
@@ -15,7 +15,7 @@ If you would like to become a wiki contributor, please join my [Discord](http://
 [Redirected Spawning](#)
 [Custom Commands](#)
 [F-Key Quickshots](#)
-### Mapping System
+### Mapping GUI
 [Overview](#)
 [Teleporting](#)
 [Bookmarks](#)
