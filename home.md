@@ -7,7 +7,7 @@ If you would like to become a wiki contributor, please join my [Discord](http://
 ### Getting Started
 [Installation](#)
 [Configuration](#)
-### Main Window
+### Main Window (Overlay & Windowed)
 [Overview](#)
 [Item Spawn Lists](#)
 [Command Panel](#)
