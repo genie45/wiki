@@ -10,3 +10,9 @@
 ## Redirected Spawning
 ## Custom Commands
 ## F-Key Quickshots
+# Mapping GUI
+## Overview
+## Teleporting
+## Bookmarks
+## Loading Savefile data
+## Loading Violet data
