@@ -1,4 +1,4 @@
-![Commandernew](/uploads/commandernew.png "Commandernew")
+![Commandernew](/uploads/commandernew.png "Commandernew"){.pagelogo}
 ## Installation
 ## Configuration
 # Main GUI
