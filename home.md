@@ -16,11 +16,11 @@ If you would like to become a wiki contributor, please join my [Discord](http://
 [Custom Commands](commander#custom-commands)
 [F-Key Quickshots](commander#f-key-quickshots)
 ### Mapping GUI
-[Overview](#)
-[Teleporting](#)
-[Bookmarks](#)
-[Loading Savefile data](#)
-[Loading Violet data](#)
+[Overview](commander#overview)
+[Teleporting](commander#teleporting)
+[Bookmarks](commander#bookmarks)
+[Loading Savefile data](commander#loading-savefile-data)
+[Loading Violet data](commander#loading-violet-data)
 
 ## Violet Exchange
 ### Getting Started
