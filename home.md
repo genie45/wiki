@@ -7,17 +7,9 @@ If you would like to become a wiki contributor, please join my [Discord](http://
 ### Getting Started
 [Overview](#) - [Installation](#) - [Configuration](#)
 ### Main Window
-[Item Spawn Lists](#)
-[Command Panel](#)
-[Finger Cannon](#)
-[Redirected Spawning](#)
-[Custom Commands](#)
-[F-Key Quickshots](#)
+[Item Spawn Lists](#) - [Command Panel](#) - [Finger Cannon](#) - [Redirected Spawning](#) - [Custom Commands](#) - [F-Key Quickshots](#)
 ### Mapping System
-[Teleporting](#)
-[Bookmarks](#)
-[Loading Savefile data](#)
-[Loading Violet data](#)
+[Teleporting](#) - [Bookmarks](#) - [Loading Savefile data](#) - [Loading Violet data](#)
 ## Violet Exchange
 [Installation](#)
 [Configuration](#)
