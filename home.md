@@ -44,3 +44,5 @@ If you would like to become a wiki contributor, please join my [Discord](http://
 [Overview](#)
 
 # Resources
+[Websites](#)
+[Downloads](#)
