@@ -2,7 +2,7 @@
 
 ## Installation
 ## Configuration
-# Main GUI (Overlay & Windowed)
+# Main GUI
 ## Overview
 ## Item Spawn Lists
 ## Command Panel
